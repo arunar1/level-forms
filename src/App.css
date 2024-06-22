@@ -56,5 +56,12 @@
 .center-container Button{
   width: 4rem;
   background-color: #282c34;
+  color: white;
+}
+
+.form-container{
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
 }
 
