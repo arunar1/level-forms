@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+.home-container{
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-container h1{
+  color: red;
+  font-size: 7rem;
+  margin-right: 2rem;
+  
+}
+.center-container Button{
+  width: 4rem;
+  background-color: #282c34;
+}
+
