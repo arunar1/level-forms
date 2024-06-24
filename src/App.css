@@ -78,4 +78,7 @@
   .form-container{
     flex-direction: column;
   }
+  .form-container Button{
+    width: 50%;
+  }
 }
